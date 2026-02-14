@@ -1,0 +1,9 @@
+{
+  "name": "DocuMind Nexus",
+  "description": "Premium intelligence platform for forensic document analysis and real-time AI interrogation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
